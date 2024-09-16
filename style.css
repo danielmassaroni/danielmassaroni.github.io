@@ -242,6 +242,7 @@ footer{
     padding: 20px;
 }
 footer a{
+    color: black !important;
     text-decoration: underline;
 }
 @keyframes fadein{
