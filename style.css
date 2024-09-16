@@ -235,6 +235,15 @@ main h1{
     border: none;
     padding: 10px;
 }
+footer{
+    background-color: var(--texto);
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+footer a{
+    text-decoration: underline;
+}
 @keyframes fadein{
     from{
         opacity: 0;
